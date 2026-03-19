@@ -2,7 +2,7 @@
 
 Calculate monthly mortgage payments including principal, interest, property tax, and insurance, with a payment breakdown bar and bidirectional down payment sync, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/calculators/mortgage-calculator
+**Live Demo:** https://file-converter-free.com/en/calculators/mortgage-calculator-online
 
 ## How It Works
 
